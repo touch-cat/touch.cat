@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
+<!--
+By: http://www.touch.cat
+Released under the Creative Commons.
+Attribution Share-Alike 4.0 License
+https://creativecommons.org/licenses/by-nc/4.0/
+-->
 <eagle version="9.3.1">
 <drawing>
 <settings>
